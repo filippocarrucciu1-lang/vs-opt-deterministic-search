@@ -21,3 +21,4 @@ VS-OPT (Verify Search Optimizer) replaces continuous scraping and prompt re-gene
 
 ## Integration Target
 Designed as a zero-training, zero-migration layer for privacy-first Chromium browsers and distributed state architectures.
+#chromium, #brave-search, #llm-optimization, #rust.
